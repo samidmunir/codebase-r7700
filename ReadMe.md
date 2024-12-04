@@ -8,3 +8,4 @@ Sami Munir | sami.munir2001@gmail.com | [github.com/samidmunir](https://github.c
 ## Projects
 ### developer-portfolio
 ## Tutorials
+### Rust Programming
