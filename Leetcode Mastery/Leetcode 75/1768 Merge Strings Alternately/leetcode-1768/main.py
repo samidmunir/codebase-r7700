@@ -18,9 +18,36 @@
         Input: word1 = 'abcd', word2 = 'pq'
         Output: 'apbqcd'
 """
+from solution import Solution
 
 def main():
-    pass
+    print('\nLeetcode #1768\n')
+    """
+        Test case 1
+    """
+    word1 = 'abc'
+    word2 = 'pqr'
+    output = Solution(word1 = word1, word2 = word2).get_output()
+    print('- Test Case 1 -->')
+    print(f'word1 = {word1}\nword2 = {word2}\noutput = {output}')
+
+    """
+        Test case 2
+    """
+    word1 = 'abc'
+    word2 = 'pqrs'
+    output = Solution(word1 = word1, word2 = word2).get_output()
+    print('\n- Test Case 2 -->')
+    print(f'word1 = {word1}\nword2 = {word2}\noutput = {output}')
+
+    """
+        Test case 3
+    """
+    word1 = 'abcd'
+    word2 = 'pq'
+    output = Solution(word1 = word1, word2 = word2).get_output()
+    print('\n- Test Case 3 -->')
+    print(f'word1 = {word1}\nword2 = {word2}\noutput = {output}')
 
 if __name__ == '__main__':
     main()
