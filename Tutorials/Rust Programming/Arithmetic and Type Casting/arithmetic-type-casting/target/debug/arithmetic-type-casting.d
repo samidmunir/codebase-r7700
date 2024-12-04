@@ -1,0 +1,1 @@
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Rust\ Programming\Arithmetic\ and\ Type\ Casting\arithmetic-type-casting\target\debug\arithmetic-type-casting.exe: C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Rust\ Programming\Arithmetic\ and\ Type\ Casting\arithmetic-type-casting\src\main.rs
