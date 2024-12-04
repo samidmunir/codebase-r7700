@@ -55,5 +55,26 @@ fn main() {
 
     /*
         Array
+        - type is defined by size and kind of element.
+        - fixed length/size
+        - can use mut keyword for mutability.
+    */
+    let arr = [1, 2, 3, 4, 5];
+    println!("\narr -->");
+    println!("\tarr[0]: {}", arr[0]);
+    println!("\tarr[1]: {}", arr[1]);
+    println!("\tarr[2]: {}", arr[2]);
+    println!("\tarr[3]: {}", arr[3]);
+    println!("\tarr[4]: {}", arr[4]);
+
+    let arr2: [char; 4] = ['s', 'a', 'm', 'i'];
+    println!("\narr2 -->");
+    println!("\tarr2[0]: {}", arr2[0]);
+    println!("\tarr2[1]: {}", arr2[1]);
+    println!("\tarr2[2]: {}", arr2[2]);
+    println!("\tarr2[3]: {}", arr2[3]);
+
+    /*
+        Strings
     */
 }
