@@ -13,4 +13,22 @@ fn main() {
     println!("\na (before): {}", a);
     a = 9;
     println!("a (after): {}", a);
+
+    // Rust allows for reuse of variable names if newly declared.
+    let z: u8 = 24;
+    println!("\nz (old): {}", z);
+    let z: u8 = 48;
+    println!("z (new): {}", z);
+
+    // name-shadowing
+    let b: u8 = 1;
+    println!("\n(1) b is: {}", b);
+
+    {
+        let b: u8 = 5;
+        println!("(2) b is: {}", b);
+    }
+
+    let b: u8 = b + 1;
+    println!("(3) b is: {}", b);
 }
