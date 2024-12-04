@@ -27,8 +27,21 @@ fn main() {
     {
         let b: u8 = 5;
         println!("(2) b is: {}", b);
+
+        let b: u8 = b - b;
+        println!("(2a) b is: {}", b);
     }
 
     let b: u8 = b + 1;
     println!("(3) b is: {}", b);
+
+    let dyn_var: u8 = 7;
+    println!("\ndyn_var (before): {}", dyn_var);
+    let dyn_var: &str = "Sami";
+    println!("dyn_var (after): {}", dyn_var);
+
+    // constants
+    const SECONDS_IN_MINUTE: u32 = 60;
+    println!("\nSECONDS_IN_MINUTE: {}", SECONDS_IN_MINUTE);
+
 }
