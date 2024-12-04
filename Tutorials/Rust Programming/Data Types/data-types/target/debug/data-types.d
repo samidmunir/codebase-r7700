@@ -1,0 +1,1 @@
+C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Rust\ Programming\Data\ Types\data-types\target\debug\data-types.exe: C:\Users\samim\Desktop\samimunir\Codebase\Tutorials\Rust\ Programming\Data\ Types\data-types\src\main.rs

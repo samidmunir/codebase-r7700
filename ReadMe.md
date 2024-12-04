@@ -11,4 +11,5 @@ Sami Munir | sami.munir2001@gmail.com | [github.com/samidmunir](https://github.c
 ### Rust Programming
 * hello-world
 * first-cargo-project
-* variablles
+* variables
+* data-types
