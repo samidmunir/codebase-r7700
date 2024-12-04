@@ -13,3 +13,4 @@ Sami Munir | sami.munir2001@gmail.com | [github.com/samidmunir](https://github.c
 * first-cargo-project
 * variables
 * data-types
+* console-input
