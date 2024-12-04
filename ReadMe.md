@@ -10,3 +10,5 @@ Sami Munir | sami.munir2001@gmail.com | [github.com/samidmunir](https://github.c
 ## Tutorials
 ### Rust Programming
 * hello-world
+* first-cargo-project
+* variablles
