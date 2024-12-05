@@ -1,0 +1,10 @@
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\atc-simulation\target\debug\deps\libbevy_image-a34fcee73271e402.rmeta: C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src/lib.rs C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\image.rs C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\hdr_texture_loader.rs C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\image_loader.rs C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\ktx2.rs C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\image_texture_conversion.rs
+
+C:\Users\samim\Desktop\samimunir\Codebase\Projects\atc-simulation\target\debug\deps\bevy_image-a34fcee73271e402.d: C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src/lib.rs C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\image.rs C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\hdr_texture_loader.rs C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\image_loader.rs C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\ktx2.rs C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\image_texture_conversion.rs
+
+C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src/lib.rs:
+C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\image.rs:
+C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\hdr_texture_loader.rs:
+C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\image_loader.rs:
+C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\ktx2.rs:
+C:\Users\samim\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bevy_image-0.15.0\src\image_texture_conversion.rs:
